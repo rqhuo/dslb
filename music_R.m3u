@@ -1,0 +1,125 @@
+#EXTM3U
+#EXTINF:-1  radio=true tvg-name="7SMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",7SMusic|2.56
+http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
+#EXTINF:-1  radio=true tvg-name="80后音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",80后音乐|1.31
+http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
+#EXTINF:-1  radio=true tvg-name="????????????PublicMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",????????????PublicMusic|2.84
+http://103.199.161.254/Content/publicmusic/Live/Channel(PublicMusic)/index.m3u8
+#EXTINF:-1  radio=true tvg-name="AsiaFMHD音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AsiaFMHD音乐台|2.67
+http://asiafm.hk:8000/asiahd
+#EXTINF:-1  radio=true tvg-name="AsiaFM亚洲音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AsiaFM亚洲音乐|1.58
+http://asiafm.hk:8000/asiafm
+#EXTINF:-1  radio=true tvg-name="AsiaFM亚洲音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AsiaFM亚洲音乐台|1.38
+http://asiafm.vip:8000/fm965
+#EXTINF:-1  radio=true tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐|0.91
+https://piccpndali.v.myalicdn.com/audio/cctv15_2.m3u8
+#EXTINF:-1  radio=true tvg-name="cnr经典音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",cnr经典音乐|1.20
+http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+#EXTINF:-1  radio=true tvg-name="CNR音乐之声" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CNR音乐之声|0.80
+http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+#EXTINF:-1  radio=true tvg-name="CNR音乐之声" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CNR音乐之声|1.11
+http://sk.cri.cn/887.m3u8
+#EXTINF:-1  radio=true tvg-name="MusicIndia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicIndia|2.16
+http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/index.m3u8
+#EXTINF:-1  radio=true tvg-name="MyMusicSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MyMusicSD|7.00
+https://novelisima.akamaized.net/hls/live/2031534/novelisimaABR/master.m3u8
+#EXTINF:-1  radio=true tvg-name="Today’sHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Today’sHits|2.86
+http://rfcmedia.streamguys1.com/MusicPulsePremium.mp3
+#EXTINF:-1  radio=true tvg-name="WHIZRadio海口音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",WHIZRadio海口音乐广播|1.03
+http://starfish.sz.aliyun.005.qingting.fm:8000/haikouSIMULRADIO
+#EXTINF:-1  radio=true tvg-name="北京音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",北京音乐广播|5.44
+http://live.cooltv.top/tv/ytradio.php?id=356
+#EXTINF:-1  radio=true tvg-name="常州音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",常州音乐广播|1.67
+http://live.cooltv.top/tv/cz.php?id=fm935
+#EXTINF:-1  radio=true tvg-name="潮流音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",潮流音乐|1.58
+http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
+#EXTINF:-1  radio=true tvg-name="楚天音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",楚天音乐广播|5.72
+http://live.cooltv.top/tv/ytradio.php?id=533
+#EXTINF:-1  radio=true tvg-name="动感音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",动感音乐|1.64
+http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
+#EXTINF:-1  radio=true tvg-name="福建汽车音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",福建汽车音乐广播|5.05
+http://live.cooltv.top/tv/ytradio.php?id=471
+#EXTINF:-1  radio=true tvg-name="高清音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",高清音乐台|1.02
+http://live.xmcdn.com:80/live/1427/64.m3u8
+#EXTINF:-1  radio=true tvg-name="格莱美音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",格莱美音乐|0.99
+http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
+#EXTINF:-1  radio=true tvg-name="古典音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",古典音乐|1.39
+http://play.redefine.ltd/Stream2/FM1058-2.m3u8
+#EXTINF:-1  radio=true tvg-name="广东音乐之声" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",广东音乐之声|4.84
+http://live.cooltv.top/tv/ytradio.php?id=489
+#EXTINF:-1  radio=true tvg-name="海南音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",海南音乐广播|5.05
+http://live.cooltv.top/tv/ytradio.php?id=543
+#EXTINF:-1  radio=true tvg-name="河北汽车音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",河北汽车音乐台|1.89
+https://radio.pull.hebtv.com/live/hebqcyy.m3u8
+#EXTINF:-1  radio=true tvg-name="河北音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",河北音乐广播|5.22
+http://live.cooltv.top/tv/ytradio.php?id=381
+#EXTINF:-1  radio=true tvg-name="河南音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",河南音乐广播|5.20
+http://live.cooltv.top/tv/ytradio.php?id=395
+#EXTINF:-1  radio=true tvg-name="湖南音乐之声·芒果音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",湖南音乐之声·芒果音乐台|1.22
+http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+#EXTINF:-1  radio=true tvg-name="怀集音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",怀集音乐台|0.70
+http://live.xmcdn.com:80/live/966/64.m3u8
+#EXTINF:-1  radio=true tvg-name="惠州音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",惠州音乐广播|1.24
+http://stream.hztvmg.com/test17/playlist.m3u8
+#EXTINF:-1  radio=true tvg-name="江苏经典流行音乐廣播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",江苏经典流行音乐廣播|1.19
+http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
+#EXTINF:-1  radio=true tvg-name="江苏经典流行音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",江苏经典流行音乐广播|4.86
+http://live.cooltv.top/tv/ytradio.php?id=414
+#EXTINF:-1  radio=true tvg-name="江苏音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",江苏音乐广播|5.55
+http://live.cooltv.top/tv/ytradio.php?id=415
+#EXTINF:-1  radio=true tvg-name="老歌音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",老歌音乐台|0.69
+http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1  radio=true tvg-name="民谣音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",民谣音乐|1.22
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1  radio=true tvg-name="南京音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",南京音乐广播|4.81
+http://live.cooltv.top/tv/ytradio.php?id=425
+#EXTINF:-1  radio=true tvg-name="宁波音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",宁波音乐广播|1.95
+http://ihzlh.linker.cc/ihzlh/zjnb_ts02_986.m3u8
+#EXTINF:-1  radio=true tvg-name="青岛摩登音乐调频" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",青岛摩登音乐调频|1.58
+http://video11.qtv.com.cn/zhibo886/manifest.m3u8
+#EXTINF:-1  radio=true tvg-name="青岛音乐体育广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",青岛音乐体育广播|1.38
+http://video11.qtv.com.cn/zhiboytgb-sd/manifest.m3u8
+#EXTINF:-1  radio=true tvg-name="清晨音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",清晨音乐台|0.75
+http://live.xmcdn.com:80/live/1011/64.m3u8
+#EXTINF:-1  radio=true tvg-name="山东经典音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",山东经典音乐广播|4.61
+http://live.cooltv.top/tv/ytradio.php?id=703
+#EXTINF:-1  radio=true tvg-name="山东音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",山东音乐广播|5.53
+http://live.cooltv.top/tv/ytradio.php?id=702
+#EXTINF:-1  radio=true tvg-name="山西音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",山西音乐广播|2.69
+http://live.cooltv.top/tv/tide.php?id=sxyygb
+#EXTINF:-1  radio=true tvg-name="石家庄音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",石家庄音乐广播|1.77
+http://pluslive2.sjzntv.cn/aac_yygb/playlist.m3u8
+#EXTINF:-1  radio=true tvg-name="私房音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",私房音乐|2.78
+http://livestream.1766.today:1769/live1.mp3
+#EXTINF:-1  radio=true tvg-name="苏州都市音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",苏州都市音乐广播|4.91
+http://live.cooltv.top/tv/ytradio.php?id=697
+#EXTINF:-1  radio=true tvg-name="台北都会音乐电台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",台北都会音乐电台|5.89
+https://onair.bravo913.com.tw:9130/live.mp3
+#EXTINF:-1  radio=true tvg-name="台湾LoungeRadio音乐电台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",台湾LoungeRadio音乐电台|1.73
+http://streaming.radionomy.com/JamendoLounge
+#EXTINF:-1  radio=true tvg-name="台湾古典音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",台湾古典音乐台|5.30
+http://59.120.88.155:8000/live.mp3
+#EXTINF:-1  radio=true tvg-name="太原音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",太原音乐广播|2.63
+http://live.cooltv.top/tv/tide.php?id=tyyygb
+#EXTINF:-1  radio=true tvg-name="武汉音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",武汉音乐广播|1.02
+http://stream.appwuhan.com/yypdzb/sd/live.m3u8
+#EXTINF:-1  radio=true tvg-name="厦门音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",厦门音乐广播|5.61
+http://live.cooltv.top/tv/ytradio.php?id=1897
+#EXTINF:-1  radio=true tvg-name="新疆音乐广播MixFM1039" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",新疆音乐广播MixFM1039|1.24
+http://livehywaudio2.chinamcache.com/xjtvs/gb06.m3u8?auth_key=1701481179-0-0-f5b0844d2432e7a4c6458ae7152483ba
+#EXTINF:-1  radio=true tvg-name="心灵音乐馆" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",心灵音乐馆|1.25
+http://play-radio-stream3.hndt.com/now/AFqvb0VX/playlist.m3u8
+#EXTINF:-1  radio=true tvg-name="亚洲经典音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",亚洲经典音乐台|1.11
+http://live.xmcdn.com:80/live/1005/64.m3u8
+#EXTINF:-1  radio=true tvg-name="宜昌音乐生活广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",宜昌音乐生活广播|1.17
+http://play.3xgd.com/fm/qct.m3u8
+#EXTINF:-1  radio=true tvg-name="游戏音乐vgmradio" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",游戏音乐vgmradio|6.94
+http://radio.vgmradio.com:8040/stream
+#EXTINF:-1  radio=true tvg-name="郑州音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",郑州音乐广播|5.08
+http://live.cooltv.top/tv/ytradio.php?id=717
+#EXTINF:-1  radio=true tvg-name="中广音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",中广音乐|3.00
+http://n07.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1  radio=true tvg-name="中广音乐网" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",中广音乐网|3.16
+http://stream.rcs.revma.com/ks4vsmg3qtzuv
+#EXTINF:-1  radio=true tvg-name="重庆音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",重庆音乐广播|4.91
+http://live.cooltv.top/tv/ytradio.php?id=372
