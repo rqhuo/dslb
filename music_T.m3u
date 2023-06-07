@@ -1,0 +1,797 @@
+#EXTM3U
+#EXTINF:-1  group-title="IPV6频道" group-title="其它频道" tvg-name="咪咕音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",咪咕音乐(1080p)|1.16
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",风云音乐(1080p)|1.94
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="第一音乐频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",第一音乐频道(1080p)|17.77
+http://rtmp.one.by:1300
+#EXTINF:-1  group-title="其它频道" tvg-name="ТНТMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ТНТMusic(1080p)|3.19
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_hdhigh.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ТНТMusicHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ТНТMusicHD(1080p)|6.50
+http://myott.top/stream/DT6QU63K5VX/97.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ZWEI2Music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ZWEI2Music(1080p)|6.89
+https://eco.streams.ovh/BarazaTV/BarazarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(1080p)|14.95
+https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(1080p)|7.13
+https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(1080p)|12.59
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(1080p)|6.66
+https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-%26checkedby:iptvcat.com
+#EXTINF:-1  group-title="其它频道" tvg-name="THTMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",THTMUSIC(1080p)|7.33
+http://myott.top/stream/DT6QU63K5VX/168.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Tele7music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Tele7music(1080p)|10.53
+http://rtmp.one.by:2300/
+#EXTINF:-1  group-title="其它频道" tvg-name="StingrayCMusicHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",StingrayCMusicHD(1080p)|3.88
+http://myott.top/stream/DT6QU63K5VX/267.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="SteelbirdMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",SteelbirdMusic(1080p)|3.67
+https://ikomg2.mmdlive.lldns.net/ikomg2/107b7df8f5444d778f349100739a09cd/manifest.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="SaltoBrasaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",SaltoBrasaMusic(1080p)|9.34
+https://salto-streams.nl/hls/sotv1_high.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RussianMusicBoxorig" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RussianMusicBoxorig(1080p)|3.19
+http://myott.top/stream/DT6QU63K5VX/164.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RotanaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RotanaMusic(1080p)|8.45
+https://coopmorteros.online/canal50/vivo.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RotanaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RotanaMusic(1080p)|17.58
+https://d2p6676ajpsg1j.cloudfront.net/out/v1/2daff8b433344d659bd5079224afc3ab/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RotanaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RotanaMusic(1080p)|7.98
+https://cm.hostlagarto.com:4445/Dajatv/Dajatv.myStream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RFMTVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RFMTVMUSIC(1080p)|19.22
+https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTV(1080p)|2.63
+http://myott.top/stream/DT6QU63K5VX/158.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="QmusicHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QmusicHD(1080p)|18.50
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="PublicMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",PublicMusic(1080p)|7.25
+https://royalstarindia.co.in/pularitv_hls/pularitv.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ONE1Music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ONE1Music(1080p)|8.69
+https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ONE1Music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ONE1Music(1080p)|12.80
+https://cdne.folxplay.tv/folx-trz/streams/ch-6/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NickMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NickMusic(1080p)|5.86
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/HasBahCa.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NickMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NickMusic(1080p)|5.19
+https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NedjmaTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NedjmaTV(1080p)|10.52
+https://pbc.furrera.ps/palestinelivehd/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MúsicaHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MúsicaHD(1080p)|2.75
+http://myott.top/stream/DT6QU63K5VX/350.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MyMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MyMusic(1080p)|11.66
+https://pbc.furrera.ps/musawahd/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(1080p)|19.95
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicBoxRussian" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicBoxRussian(1080p)|2.70
+http://myott.top/stream/DT6QU63K5VX/319.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicBoxRussian" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicBoxRussian(1080p)|6.86
+https://hls.rt.com/hls/rtdru.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicBoxRussian" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicBoxRussian(1080p)|16.98
+https://sc.id-tv.kz/NatGeoWildHD.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicBoxGold" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicBoxGold(1080p)|9.72
+http://trs.mh89tv.xyz:80/nrc6798/nrc.506/127987
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICBOXBRAZILSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICBOXBRAZILSD(1080p)|19.95
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICBOXBRAZILSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICBOXBRAZILSD(1080p)|17.50
+https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/chunklist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(1080p)|7.56
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Music:KronehitTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music:KronehitTVHD(1080p)|9.11
+https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSIC:HDTRACEURBAN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSIC:HDTRACEURBAN(1080p)|12.23
+https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSIC:HDTRACEURBAN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSIC:HDTRACEURBAN(1080p)|14.86
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MundodelaMúsica" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MundodelaMúsica(1080p)|9.44
+https://pantera1-100gb-cl-movistar.dps.live/pucontv/pucontv.smil/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MundodelaMúsica" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MundodelaMúsica(1080p)|7.97
+https://tv.streaming-chile.com:19360/elsembrador/elsembrador.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MundodelaMúsica" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MundodelaMúsica(1080p)|5.72
+https://live.seo.tv.bo/live/3SEO.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MTVHITS音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MTVHITS音乐(1080p)|10.14
+http://178.170.47.109/MTVHITS/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="M6Music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",M6Music(1080p)|8.38
+http://178.170.47.109/M6MUSIC/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="M6Music?HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",M6Music?HD(1080p)|15.97
+https://cdne.folxplay.tv/folx-trz/streams/ch-1/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="INDZEEMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",INDZEEMUSIC(1080p)|5.89
+https://mhonepunjabi.in/hls/stream.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="HDMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",HDMusicTV(1080p)|3.94
+http://91.247.68.229:8000/play/1HD/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FOLXMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FOLXMusic(1080p)|19.45
+https://cdne.folxplay.tv/folx-trz/streams/ch-3/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FOLXMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FOLXMusic(1080p)|8.13
+https://h056.video-stream-hosting.de/easycast9-live/_definst_/mp4:livestream99/playlist.m3u8?ref=%26checkedby:iptvcat.com
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(1080p)|9.08
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/67290.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(1080p)|4.63
+http://95.105.255.137:1935/tvturiec/tvliptov.stream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(1080p)|14.73
+http://rtmp.one.by:1300/
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(1080p)|13.34
+https://daiconnect.com/live/hls/rotana/music/.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(1080p)|8.83
+https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Euronews" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Euronews(1080p)|12.66
+https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls_hd.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ECKOEXPRESmusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ECKOEXPRESmusic(1080p)|7.19
+https://liveopen.siliconweb.com/openTvLive/openEcclessia/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DJLonchoTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DJLonchoTV(1080p)|10.52
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjingTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjingTV(1080p)|5.13
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjingHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjingHits(1080p)|6.28
+https://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjakTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjakTV(1080p)|8.22
+https://stream.veseljak.tv/hls/stream.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DesenhoMusicasFunk24H" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DesenhoMusicasFunk24H(1080p)|4.99
+http://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DeluxMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DeluxMusic(1080p)|19.13
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DeluxMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DeluxMusic(1080p)|19.45
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DeluxMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DeluxMusic(1080p)|9.17
+https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DeluxeMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DeluxeMusic(1080p)|12.61
+https://cdne.folxplay.tv/folx-trz/streams/ch-4/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CMUSIC(1080p)|5.24
+http://myott.top/stream/DT6QU63K5VX/312.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV.png",CCTV风云音乐(1080p)|16.81
+http://218.17.216.102:9901/tsfile/live/1073_1.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV.png",CCTV风云音乐(1080p)|6.64
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012514103.m3u8
+#EXTINF:-1  group-title="IPV6频道" group-title="央视频道" tvg-name="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV.png",CCTV风云音乐(1080p)|0.97
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1  group-title="IPV6频道" group-title="央视频道" tvg-name="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV.png",CCTV风云音乐(1080p)|0.98
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV.png",CCTV风云音乐(1080p)|1.95
+http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002525/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV.png",CCTV风云音乐(1080p)|1.94
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226953/index.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV.png",CCTV风云音乐(1080p)|2.86
+http://42.176.185.28:9901/tsfile/live/1024_1.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐(1080p)|4.22
+http://1.195.111.251:11190/tsfile/live/0015_1.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐(1080p)|1.69
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8?
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐(1080p)|6.13
+http://111.20.35.103:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com%26IASHttpSessionId=
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐(1080p)|3.89
+http://219.140.56.34:3333/tsfile/live/1015_1.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐(1080p)|1.95
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐(1080p)|1.27
+http://58.205.220.58/tlivectfree-cdn.ysp.cctv.cn/1/2000205003.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(1080p)|3.72
+https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(1080p)|4.17
+http://1.183.141.194:8000/hls/15/index.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(1080p)|2.00
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205003.m3u8
+#EXTINF:-1  group-title="IPV6频道" group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(1080p)|1.78
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/wh7f454c46tw1248547286_2118050836/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8?icpid=3%26RTS=1674381363%26from=40%26popid=40%26hms_devid=2291%26prioritypopid=40%26vqe=3
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(1080p)|14.34
+http://iptv.kjrzxhb.top:2086/udp/239.11.0.26:5140
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(1080p)|3.36
+http://58.205.220.58/tlivecloud-ipv6.ysp.cctv.cn/ysp/2000205003.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(1080p)|2.05
+http://111.59.63.32:9901/tsfile/live/1022_1.m3u8
+#EXTINF:-1  group-title="IPV6频道" group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(1080p)|1.75
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000501/index.m3u8?
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15Music" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15MUSIC.png",CCTV15Music(1080p)|1.22
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15[1920x1080](1080p)|3.97
+http://183.196.25.171:808/hls/15/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CANALDELAMUSICA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CANALDELAMUSICA(1080p)|3.97
+http://168.205.87.198:8555/live/michele/123456/167.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="Bili直播动漫粤国语音乐轮播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Bili直播动漫粤国语音乐轮播(1080p)|1.86
+https://cn-sccd-ct-01-10.bilivideo.com/live-bvc/542789/live_4394907_2985322/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BARAZATVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BARAZATVMUSIC(1080p)|9.38
+http://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaTVGreekMusicHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaTVGreekMusicHits(1080p)|8.25
+https://vdo3.alphaserver.gr:3466/stream/play.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaMusicTV(1080p)|6.73
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaMusicTVGreekHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaMusicTVGreekHD(1080p)|6.99
+https://eco.streams.ovh/BarazaTV/BarazaTV/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BARAZAMUSICTVFHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BARAZAMUSICTVFHD(1080p)|7.95
+https://eco.streams.ovh:443/BarazaTV/BarazaTV/HasBahCa.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="AuroraArte" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AuroraArte(1080p)|3.63
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="AlbKanaleMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AlbKanaleMusicTV(1080p)|4.05
+http://albuk.dyndns.tv:1935/albuk/albuk.stream/chunklist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="AFNMUSICIRAN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AFNMUSICIRAN(1080p)|5.83
+https://eco.streams.ovh/BarazaTV/BarazaTV/chunklist_w475155693.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="AFNMUSICIRAN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AFNMUSICIRAN(1080p)|8.84
+https://1494836162.rsc.cdn77.org/LS-PRG-59570-1/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="4everMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",4everMusic(1080p)|2.94
+http://myott.top/stream/DT6QU63K5VX/400.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="30AMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",30AMusic(720p)|8.33
+http://30a-tv.com/music.m3u8?iptvm3uplaylists.m3u8%26checkedby:iptvcat.com
+#EXTINF:-1  group-title="其它频道" tvg-name="30AMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",30AMusic(720p)|8.22
+https://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="30AMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",30AMusic(720p)|6.58
+https://30a-tv.com/music.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="30AMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",30AMusic(720p)|14.34
+https://3abn-live.akamaized.net/hls/live/2010551/Praise_Him/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="30AMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",30AMusic(720p)|11.42
+http://30a-tv.com/sidewalks.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ADRIAMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ADRIAMusic(720p)|6.23
+https://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="23ABC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",23ABC(720p)|8.34
+http://30a-tv.com/music.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="1HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",1HD(720p)|14.42
+https://linear-46.frequency.stream/dist/localnow/46/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="?MuchMusicHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",?MuchMusicHD(720p)|17.11
+http://v2.tustreaming.cl/clicktv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="[24H]MúsicaEletr?nicaAcademia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",[24H]MúsicaEletr?nicaAcademia(720p)|5.11
+http://connectiktv.ddns.net:5000/mytvchannel/@mytvchannel/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjakTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjakTV(720p)|6.77
+https://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjakTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjakTV(720p)|3.83
+http://akittv-live.ercdn.net/akittv/akittv_720p.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DesenhoMusicasSertanejo24H" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DesenhoMusicasSertanejo24H(720p)|4.58
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjovkaSTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjovkaSTV2(720p)|6.83
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjovkaSTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjovkaSTV2(720p)|7.88
+https://nn.geo.joj.sk/hls/joj-720.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjovkaSTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjovkaSTV2(720p)|7.77
+http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u
+#EXTINF:-1  group-title="其它频道" tvg-name="DJLonchoTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DJLonchoTV(720p)|9.88
+https://5eaccbab48461.streamlock.net:1936/dancefm_1/dancefm_1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="EuroIndieMusicChartTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",EuroIndieMusicChartTV(720p)|6.64
+https://5f22d76e220e1.streamlock.net/steuropetv/steuropetv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="EuroIndieMusicChartTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",EuroIndieMusicChartTV(720p)|6.67
+https://5db313b643fd8.streamlock.net/PrimaTV/PrimaTV/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FaithlifeTVChristmasMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FaithlifeTVChristmasMusic(720p)|4.20
+http://193.33.240.8:8080/fashion_one_hd/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FaithlifeTVChristmasMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FaithlifeTVChristmasMusic(720p)|8.42
+http://www.30a-tv.com/InvPit.m3u8?iptvm3uplaylists.m3u8%26checkedby:iptvcat.com
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusicChannelBielorrusia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusicChannelBielorrusia(720p)|19.80
+http://195.23.211.179:1935/kmusic/smil:kmusic.smil/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(720p)|10.39
+https://www.onairport.live/sophiatv-es-live/livestream_high/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FrecuenciaMusicalTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FrecuenciaMusicalTV(720p)|4.28
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="GoodTV经典音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",GoodTV经典音乐(720p)|3.53
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="HitMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",HitMusic(720p)|3.31
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(720p)|10.73
+http://europa-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="M6MUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",M6MUSIC(720p)|3.22
+https://shls-m6-int-prod-dub.shahid.net/out/v1/a315ab77ee7343a7a17dbe7e32eee3ba/index_2.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MedjugorjeItaliaTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MedjugorjeItaliaTV(720p)|8.72
+https://tvd-ria60.fluid.stream/Anni60TV/livestream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MTVMUSIC24SD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MTVMUSIC24SD(720p)|8.09
+https://mytvplus.iptv-playoutcenter.de/mytvplus/mytvplus.stream_1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MedjugorjeItaliaTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MedjugorjeItaliaTV(720p)|7.42
+https://58f12ffd2447a.streamlock.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="LocalNowMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",LocalNowMusic(720p)|8.14
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUCHMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUCHMUSIC(720p)|8.66
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSIC:HDTVM3" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSIC:HDTVM3(720p)|5.13
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSIC:HDTRACEURBAN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSIC:HDTRACEURBAN(720p)|16.44
+https://hls-cdn.tvstartup.net/barakyah-channel/play/mp4:ourtvedge/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Music:V2BEAT" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music:V2BEAT(720p)|3.49
+http://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Music:V2BEAT" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music:V2BEAT(720p)|4.42
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/sanfrancisco/G0051_008/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(720p)|7.74
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(720p)|8.69
+https://live-edge01.telecentro.net.ar/live/smil:trm.smil/chunklist_w68879463_b1864000_sleng.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(720p)|13.58
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelamerica_all/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(720p)|6.20
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(720p)|9.81
+https://panel.dattalive.com/8012/8012/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(720p)|12.53
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelaustralia_all/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICBOXBRAZILSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICBOXBRAZILSD(720p)|3.28
+http://168.205.87.198:8555/live/michele/123456/160.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicBoxGold" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicBoxGold(720p)|5.56
+https://media.rtvwesterwolde.nl/hls/live/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICBOXBRAZILSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICBOXBRAZILSD(720p)|3.39
+http://168.205.87.198:8555/live/1431/123456/160.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicChannel(720p)|6.59
+https://live.tele7music.ro/hls/stream/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(720p)|5.09
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(720p)|4.59
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(720p)|3.50
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(720p)|3.75
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w767435128_b2028000_sleng.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(720p)|7.17
+https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTOP" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTOP(720p)|8.28
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music(720p)|2.84
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MyMusicChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MyMusicChannel(720p)|12.16
+https://cdn02.upstream-cloud.ch/sstvlinear/ngrp:sstvlinear_all/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NGRadioTVMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NGRadioTVMusic(720p)|4.05
+http://tv.nrg91.gr:1935/onweb/live/chunklist_w68553139.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ONEMUSICTELEVISION" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ONEMUSICTELEVISION(720p)|5.92
+http://137.59.86.218:1935/live/onetv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="PersianaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",PersianaMusic(720p)|5.20
+http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="PersianaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",PersianaMusic(720p)|2.81
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="QmusicVlaanderen" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QmusicVlaanderen(720p)|5.75
+http://168.205.87.198:8555/live/1221/123456/74.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="QmusicVlaanderen" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QmusicVlaanderen(720p)|9.66
+http://168.205.87.198:8555/live/1431/123456/74.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="QmusicVlaanderen" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QmusicVlaanderen(720p)|2.97
+http://168.205.87.198:8555/live/michele/123456/74.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="Qmusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Qmusic(720p)|7.13
+https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="QmusicVlaanderen" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QmusicVlaanderen(720p)|12.47
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="PersianaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",PersianaMusic(720p)|2.61
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ReloadRadioMusicPowerHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ReloadRadioMusicPowerHD(720p)|5.59
+https://deb10stream.duckdns.org/hls/stream.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(720p)|6.75
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(720p)|4.34
+http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="QUIEROMUSICA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QUIEROMUSICA(720p)|5.63
+http://168.205.87.198:8555/live/1431/123456/104.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(720p)|8.22
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(720p)|7.34
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NRG91Music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NRG91Music(720p)|4.97
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL_720p.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NGRadioTVMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NGRadioTVMusic(720p)|9.09
+https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(720p)|10.67
+https://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICBOXBRAZILSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICBOXBRAZILSD(720p)|2.03
+http://168.205.87.198:8555/live/1431/123456/183.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="RotanaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RotanaMusic(720p)|5.20
+https://live-hls-web-ajm.getaj.net/AJM/02.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="StingrayCMusicHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",StingrayCMusicHD(720p)|4.36
+http://168.205.87.198:8555/live/5803/123456/187.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="StingrayDJAZZ" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",StingrayDJAZZ(720p)|16.44
+https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="StingrayDjazzHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",StingrayDjazzHD(720p)|8.74
+https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="SPIRITTVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",SPIRITTVMUSIC(720p)|16.27
+https://mn-nl.mncdn.com/blutv_sportstv2/live_720p2000000kbps/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="SUNMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",SUNMUSIC(720p)|6.02
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJATIMSURABAYA)/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="TVSMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",TVSMusicNetwork(720p)|7.06
+https://rpn1.bozztv.com/36bay2/gusa-tvstravel/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="SPIRITTVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",SPIRITTVMUSIC(720p)|6.55
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="SPIRITTVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",SPIRITTVMUSIC(720p)|15.48
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="V2BEATMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",V2BEATMusic(720p)|2.56
+http://de1se01.v2beat.live/chunks.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(720p)|2.84
+http://168.205.87.198:8555/live/michele/123456/148.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="XITEMUSICHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",XITEMUSICHD(720p)|7.70
+https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ZappingMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ZappingMusic(720p)|11.50
+https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelchinese_all/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(720p)|5.08
+http://168.205.87.198:8555/live/1221/123456/148.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="ZappingMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ZappingMusic(720p)|2.88
+http://www.rtmplus.cz/live/1-playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="好消息亲近神诗歌音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",好消息亲近神诗歌音乐(720p)|3.05
+http://live.streamingfast.net/osmflivech6.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(720p)|6.33
+http://168.205.87.198:8555/live/1221/123456/19.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="RotanaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RotanaMusic(720p)|9.61
+https://panel.dattalive.com/6605140/6605140/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICBOXBRAZILSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICBOXBRAZILSD(720p)|3.83
+http://168.205.87.198:8555/live/1221/123456/160.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="乌·M2音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",乌·M2音乐(720p)|11.73
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RotanaMusicHEVC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RotanaMusicHEVC(720p)|6.80
+https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicBoxBrazil4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicBoxBrazil4K(720p)|8.27
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(720p)|8.55
+https://617c5175c970b.streamlock.net:4444/previsoratv/live/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(720p)|10.73
+https://panel.dattalive.com/MetropolitanaFM/MetropolitanaFM/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(720p)|6.80
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Music:V2BEAT" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music:V2BEAT(720p)|7.66
+https://de1se01.v2beat.live/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Music:V2BEAT" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music:V2BEAT(720p)|4.77
+https://cdn3.wowza.com/5/RXJNMFI3VlVkOEFP/newportbeach/G0064_003/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Music:KronehitTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music:KronehitTVHD(720p)|8.45
+https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSIC:HDDIGITALBLACKMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSIC:HDDIGITALBLACKMUSIC(720p)|6.11
+https://simultv.s.llnwi.net/n4s4/MilitaryHomeLife/interlink.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="LocalNowMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",LocalNowMusic(720p)|13.28
+https://d2v42hnvh68zz7.cloudfront.net/dist/localnow/213/hls/master/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(720p)|6.42
+https://bozztv.com/1gbw5/tintv2/tintv2/chunklist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(720p)|5.36
+http://cdn.dovecher.tv:8081/live/marsh/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="EuroIndieMusicChartTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",EuroIndieMusicChartTV(720p)|17.34
+https://euronews.alteox.app/hls/en_stream.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="EuroIndieMusicChartTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",EuroIndieMusicChartTV(720p)|8.22
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DeluxMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DeluxMusic(720p)|17.20
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="AFNMUSICIRAN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AFNMUSICIRAN(720p)|9.31
+https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CMC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CMC(720p)|12.11
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CityMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CityMusic(720p)|8.73
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazamusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazamusicTV(720p)|4.42
+http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaTVGreekMusicHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaTVGreekMusicHits(720p)|9.55
+https://cloudfront41.lexanetwork.com:1344/relay01/livestream002.sdp/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaMusicTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaMusicTVHD(720p)|10.38
+https://video.streams.ovh:1936/DiavataTV/DiavataTV/HasBahCa.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BARAZATVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BARAZATVMUSIC(720p)|5.92
+http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/HasBahCa_w896416726.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐(720p)|4.64
+http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000205002.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(720p)|4.45
+http://125.210.152.19:9120/live/hzgq-cctvmusicgq-h264.m3u8
+#EXTINF:-1  group-title="IPV6频道" group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(720p)|1.86
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1  group-title="IPV6频道" group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(720p)|1.83
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BARAZATVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BARAZATVMUSIC(720p)|7.48
+http://clients.apsny.camera/tv_abaza_tv/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CaliforniaMusicChannelUSAEN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CaliforniaMusicChannelUSAEN(720p)|3.14
+http://hz1.teleport.cc/HLS/HD.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CaliforniaMusicChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CaliforniaMusicChannel(720p)|12.05
+https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CANALDELAMUSICA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CANALDELAMUSICA(720p)|10.16
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CANALDELAMUSICA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CANALDELAMUSICA(720p)|10.05
+https://stream.arcast.com.ar/canal3/canal3/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CANALDELAMUSICA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CANALDELAMUSICA(720p)|15.53
+https://stream.arcast.live/cpe/ngrp:cpe_all/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarbudMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarbudMusic(720p)|5.50
+https://common01.todostreaming.es/live/tvbarbastro-livestream.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BARAZATVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BARAZATVMUSIC(616p)|3.91
+http://live.streams.ovh:1935/NGradio/NGradio/chunklist_w803356777.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="AlbKanaleMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AlbKanaleMusicTV(720p)|6.30
+http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ArabicaMusicFHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ArabicaMusicFHD(720p)|7.67
+https://vivo.solumedia.com:19360/crossing/crossing.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="AlbKanaleMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AlbKanaleMusicTV(720p)|7.80
+https://frikanalen.no/stream/stream_2.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="AFNMUSICIRAN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AFNMUSICIRAN(720p)|9.14
+https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name=".AR.:ROTANAMUSICHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",.AR.:ROTANAMUSICHD(720p)|8.39
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/60928.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(648p)|5.52
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(576p)|12.89
+https://bsttv.bonus-tv.ru/cdn/kurai/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="EuroIndieMusicChartTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",EuroIndieMusicChartTV(576p)|6.39
+https://www.onairport.live/die-neue-zeit-tv-live/livestream_high/chunklist_w2039349636.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Qmusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Qmusic(576p)|12.08
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(576p)|4.94
+https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ТНТMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ТНТMusic(576p)|3.61
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="俄·音乐TROSoyuz" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",俄·音乐TROSoyuz(576p)|5.66
+http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="EuroIndieMusicChartTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",EuroIndieMusicChartTV(576p)|5.30
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CALTEXMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CALTEXMUSIC(576p)|4.53
+https://59d7d6f47d7fc.streamlock.net/canale2/canale2/chunklist_w811855890.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaTVGreekMusicHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaTVGreekMusicHits(540p)|13.34
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjingHedonistHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjingHedonistHD(540p)|3.95
+http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjingWildEDMHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjingWildEDMHD(540p)|2.64
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CANALDELAMUSICA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CANALDELAMUSICA(540p)|9.89
+https://stream.arcast.com.ar/canal5picotruncado/canal5picotruncado/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTV(540p)|5.61
+https://multicanal.streamseguro.com/hls/streaming.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Tele7music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Tele7music(540p)|3.56
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="3ABNPraiseHimMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",3ABNPraiseHimMusicNetwork(540p)|3.05
+http://rtmp.abnsat.com/hls/arabic.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICBOXBRAZILSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICBOXBRAZILSD(480p)|5.00
+http://168.205.87.198:8555/live/1431/123456/189.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="MHOneMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MHOneMusic(480p)|11.20
+http://trs.mh89tv.xyz:80/nrc6798/nrc.506/134083
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(480p)|4.45
+http://stream3.prostudionetwork.com:1943/megavision/MV/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ZappingMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ZappingMusic(480p)|4.78
+http://ms7.mx-cd.net/tv/71-1356094/Tommy_Teleshopping.smil/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music(480p)|1.17
+http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUCHMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUCHMUSIC(480p)|8.70
+https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="AFNMUSICIRAN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AFNMUSICIRAN(480p)|8.27
+https://live1.presstv.ir/live/ifilmfa_360p/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="百视通音乐厅" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",百视通音乐厅(478p)|1.30
+http://bp-caster.bestv.com.cn/469/1/video.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ZappingMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ZappingMusic(450p)|3.94
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="3ABNPraiseHimMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",3ABNPraiseHimMusicNetwork(432p)|6.98
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="StingrayDjazz" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",StingrayDjazz(432p)|7.16
+https://stirr.ott-channels.stingray.com/128/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="StingrayMusicHitlist" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",StingrayMusicHitlist(432p)|6.75
+https://stirr.ott-channels.stingray.com/107/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="StingrayMusicHotCountry" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",StingrayMusicHotCountry(432p)|7.63
+https://ott-linear-channels.stingray.com/hls/stirr/108.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="StingrayMusicGreatestHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",StingrayMusicGreatestHits(432p)|6.39
+https://stirr.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NGRadioTVMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NGRadioTVMusic(432p)|7.78
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DJingHotHotHot" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DJingHotHotHot(432p)|7.59
+https://xumo-redbox.ott-channels.stingray.com/108/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="HitsMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",HitsMusic(432p)|6.98
+https://xumo-redbox.ott-channels.stingray.com/155/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="3ABNPraiseHimMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",3ABNPraiseHimMusicNetwork(432p)|7.39
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MundodelaMúsica" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MundodelaMúsica(576p)|3.55
+https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSIC:HDTVM3" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSIC:HDTVM3(576p)|3.17
+http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="[24H]MúsicaEletr?nicaAcademia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",[24H]MúsicaEletr?nicaAcademia(540p)|8.61
+http://live.cast-control.eu:1935/samiaki/samiaki/HasBahCa.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(576p)|6.09
+https://canadaremar2.todostreaming.es/live/argentina-web.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ECKOEXPRESmusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ECKOEXPRESmusic(576p)|5.03
+http://hz1.teleport.cc/HLS/SD.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="QmusicVlaanderen" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QmusicVlaanderen(576p)|3.88
+http://168.205.87.198:8555/live/1431/123456/21.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="QmusicVlaanderen" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QmusicVlaanderen(576p)|3.63
+http://168.205.87.198:8555/live/michele/123456/21.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="Qmusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Qmusic(404p)|5.52
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="QmusicVlaanderen" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QmusicVlaanderen(576p)|4.39
+http://168.205.87.198:8555/live/1221/123456/21.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="PUBLICSENAT" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",PUBLICSENAT(576p)|9.22
+https://storemusic.top:8222/enachannel/enachannel/enachannel/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(404p)|4.52
+http://streaming5.globalhostla.com/rtplive/elsolrad/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ECKOEXPRESmusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ECKOEXPRESmusic(404p)|18.56
+https://xplore-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaTVGreekMusicHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaTVGreekMusicHits(480p)|3.75
+http://118.97.50.107/Content/HLS/Live/Channel(TVRIJABARBANDUNG)/Stream(03)/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaTVGreekMusicHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaTVGreekMusicHits(576p)|5.49
+http://trs.mh89tv.xyz:80/nrc6798/nrc.506/134082
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTV(576p)|5.42
+http://api.alpaca.t62a.com/hls/9114/stream0.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Tele7music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Tele7music(576p)|12.03
+https://tv.streambox.ro/hls/telem/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTV(576p)|11.77
+https://tv.nknews.org/tvdash/stream.mpd
+#EXTINF:-1  group-title="其它频道" tvg-name="StingrayDjazz" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",StingrayDjazz(480p)|4.39
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicBoxRussia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicBoxRussia(576p)|5.86
+http://193.33.240.8:8080/music-box-ru/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ZappingMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ZappingMusic(576p)|6.91
+https://5926fc9c7c5b2.streamlock.net/9354/9354/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ZappingMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ZappingMusic(576p)|2.66
+https://news.cgtn.com/resource/live/arabic/cgtn-a.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ТНТHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ТНТHD(404p)|7.63
+https://sc.id-tv.kz/TNTMusic_34_35.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicBoxRussian" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicBoxRussian(576p)|5.14
+https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(576p)|4.72
+http://168.205.87.198:8555/live/1221/123456/7.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="VRTRadioMNMMusicandMore" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VRTRadioMNMMusicandMore(576p)|3.11
+http://168.205.87.198:8555/live/michele/123456/7.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="星空音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",星空音乐(576p)|5.52
+http://xcm13.f3322.net:4000/udp/239.93.1.7:2194
+#EXTINF:-1  group-title="其它频道" tvg-name="MundodelaMúsica" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MundodelaMúsica(576p)|1.33
+https://livedoc.cgtn.com/1000d/prog_index.m3u8
+#EXTINF:-1  group-title="IPV6频道" group-title="其它频道" tvg-name="音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",音乐(576p)|1.11
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000082/index.m3u8?
+#EXTINF:-1  group-title="IPV6频道" group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15(576p)|1.31
+http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000337/index.m3u8?
+#EXTINF:-1  group-title="其它频道" tvg-name="AkudjiFilmBoxHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",AkudjiFilmBoxHD(576p)|4.94
+http://94.230.240.17:8080/film_box/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="INDMUSICINDIA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",INDMUSICINDIA(576p)|5.20
+https://livetv.newsx.com/itv/itvnetwork5/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="1HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",1HD(576p)|0.91
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NevoMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NevoMusic(392p)|2.98
+http://tv.balkanweb.com/news24/livestream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MyMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MyMusic(392p)|2.24
+http://tv.balkanweb.com:8081/news24/livestream/chunks.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MyMusicSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MyMusicSD(392p)|3.38
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DesenhoMusicaEletronica24H" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DesenhoMusicaEletronica24H(360p)|11.94
+https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CMusicTV(360p)|18.77
+https://cmc-ono.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="EskaBestMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",EskaBestMusic(360p)|5.72
+https://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="EskaBestMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",EskaBestMusic(360p)|2.53
+http://s01.vpis.io/besiktas/besiktas.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DSTV:MzansiMagicMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DSTV:MzansiMagicMusic(360p)|11.25
+https://magellantv-3-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="[24H]MúsicaEletr?nicaAcademia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",[24H]MúsicaEletr?nicaAcademia(360p)|11.39
+https://rightsboosterltd-scl-1-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(360p)|10.64
+http://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FrecuenciaMusicalTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FrecuenciaMusicalTV(360p)|16.45
+https://edge.fstv-live-linear-channel.top.comcast.net/Content/HLS_HLSv3/Live/channel(b168a609-19c1-2203-ae1d-6b9726f05e67)/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="IBCMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",IBCMUSIC(360p)|16.69
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MCN6MusicChannel" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MCN6MusicChannel(360p)|20.03
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MTVMusicUK" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MTVMusicUK(360p)|11.58
+http://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MuchMusicCA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MuchMusicCA(360p)|3.45
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MuchMusicCA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MuchMusicCA(360p)|2.56
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSIC:HDBBLACKCARRABEAN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSIC:HDBBLACKCARRABEAN(360p)|10.06
+https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSIC:HDDIGITALBLACKMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSIC:HDDIGITALBLACKMUSIC(360p)|19.33
+https://amg00762-adn-adn-rakuten-jnwoo.amagi.tv/hls/amagi_hls_data_rakutenAA-adn-rakuten/CDN/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicChannels:RetroMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicChannels:RetroMusic(360p)|2.67
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicChannels:RetroMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicChannels:RetroMusic(360p)|6.66
+https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicIndia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicIndia(480p)|17.30
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicReloadTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicReloadTVHD(480p)|3.30
+http://web.onair-radio.eu:1935/video/video/chunklist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(360p)|3.92
+http://tv.pro-ott.com:25443/live/V50Dr59OcPNY/v2R1gYuCM1/9528.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="OSNAlfaMusicNowHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",OSNAlfaMusicNowHD(360p)|11.39
+https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="QMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QMusic(360p)|11.48
+https://rakuten-family-16-be.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(360p)|2.63
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(360p)|2.55
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(360p)|3.39
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTV(360p)|3.61
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTV(360p)|2.94
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?CANALANDRONALTAS.ts%26checkedby:iptvcat.com
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTV(360p)|3.83
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?CANALANDRONALTAS.ts%26checkedby:iptvcat.com
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTV(360p)|8.94
+https://lagenceducourtmetrage-brefcinema-01-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RETROTVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RETROTVMUSIC(360p)|2.73
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w627639048.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTV(360p)|7.38
+https://media1.tvnatura.cz/live_out/1/live.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="TVSMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",TVSMusicNetwork(480p)|5.63
+https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/mono.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="TVSMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",TVSMusicNetwork(480p)|7.64
+https://rpn1.bozztv.com/36bay2/gusa-tvstallyho/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="QMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QMusic(360p)|3.31
+http://168.205.87.198:8555/live/1431/123456/190.ts
+#EXTINF:-1  group-title="其它频道" tvg-name="SaltoBrasaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",SaltoBrasaMusic(360p)|18.66
+https://live.obslivestream.com/viaaltomayomux/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ZWEI2Music" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ZWEI2Music(360p)|8.45
+https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="TVSMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",TVSMusicNetwork(480p)|5.27
+https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RotanaMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RotanaMusic(360p)|12.80
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="QmusicHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",QmusicHD(360p)|2.88
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/chunklist_w1328169946.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="PlanetaTVMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",PlanetaTVMusic(360p)|10.19
+https://deaplaneta-planetakidz-2-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicBoxRussian" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicBoxRussian(360p)|3.00
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="Music:KronehitTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music:KronehitTVHD(360p)|8.25
+https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b628000.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(360p)|3.38
+http://210.210.155.69/s/s63/S4/mnf.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MuchMusicCA" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MuchMusicCA(360p)|3.84
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="LaMuscleTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",LaMuscleTV(480p)|14.17
+https://rpn1.bozztv.com/36bay2/gusa-tvsmusic/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="HDMTVMUSICMADEINSPAIN" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",HDMTVMUSICMADEINSPAIN(360p)|10.53
+https://connection3-ent-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(360p)|12.16
+https://musigal-crtvg.flumotion.com/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaTVGreekMusicHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaTVGreekMusicHits(360p)|10.33
+https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaTVGreekMusicHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaTVGreekMusicHits(360p)|8.80
+https://live.hungama.com/linear/kadak-hits/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="3ABNPraiseHimMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",3ABNPraiseHimMusicNetwork(360p)|19.05
+https://content.uplynk.com/channel/328d1434fb51476cb6567c74d5b2cc70.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="TVSMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",TVSMusicNetwork(360p)|7.59
+https://rpn1.bozztv.com/36bay2/gusa-nostalgia/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="TVSMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",TVSMusicNetwork(360p)|5.44
+https://rpn1.bozztv.com/36bay2/gusa-nostalgia/tracks-v1a1/mono.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="TVSMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",TVSMusicNetwork(360p)|5.23
+https://rpn1.bozztv.com/36bay2/gusa-nostalgia/mono.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DjingHedonistHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DjingHedonistHD(576p)|6.72
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DJingHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DJingHits(360p)|18.22
+http://210.210.155.35/dr9445/h/h37/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NGRadioTVMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NGRadioTVMusic(384p)|18.25
+https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe462afc6a0e.smil/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusicChannelBielorrusia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusicChannelBielorrusia(360p)|5.75
+https://cdn3.wowza.com/5/djRwZmQvTEJidmZD/cityftmyers/G2083_002/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DJingHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DJingHits(360p)|9.80
+http://210.210.155.37/dr9445/h/h37/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BarazaTVGreekMusicHits" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BarazaTVGreekMusicHits(360p)|3.75
+http://live.streams.ovh:1935/foxtv/foxtv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusicChannelBielorrusia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusicChannelBielorrusia(240p)|15.94
+https://live.ishiacloud.com/haditv.co.uk/haditv3.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RFMTVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RFMTVMUSIC(240p)|6.89
+https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="1HD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",1HD(240p)|3.47
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w1975730063.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NickMusicUS" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",NickMusicUS(226p)|3.08
+http://217.174.225.146/legacyhls/ch005_400/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="VizionPlus" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",VizionPlus(216p)|15.69
+https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MyMusicSD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MyMusicSD(216p)|16.11
+https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RETROTVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RETROTVMUSIC(288p)|7.47
+http://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusic(288p)|3.36
+http://media.finest.tv/hls/live.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="[24H]MúsicaEletr?nicaAcademia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",[24H]MúsicaEletr?nicaAcademia(180p)|10.55
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CineManTopHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CineManTopHD(180p)|9.34
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?iptvgratis%26checkedby:iptvcat.com
+#EXTINF:-1  group-title="其它频道" tvg-name="Music:KronehitTVHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",Music:KronehitTVHD(180p)|19.09
+http://bitcdn-kronehit.bitmovin.com/v2/hls/fluxustv.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MetropolitanaFM" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MetropolitanaFM(180p)|3.03
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1582140541_b364000_sleng.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(180p)|9.19
+http://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="音乐MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",音乐MusicTop(180p)|5.11
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w538311571_b364000_sleng.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MusicTop" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MusicTop(180p)|8.92
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina(180p)|8.80
+https://stream.openplayout.org/hls/dorf_high/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FirstMusicChannelBielorrusia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FirstMusicChannelBielorrusia(180p)|15.77
+https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="[24H]MúsicaEletr?nicaAcademia" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",[24H]MúsicaEletr?nicaAcademia(180p)|9.91
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="RetroMusicTelevision" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",RetroMusicTelevision(144p)|7.19
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="ROTANAMUSIC*" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",ROTANAMUSIC*(144p)|16.78
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BARAZATVMUSIC" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BARAZATVMUSIC(144p)|18.31
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="小满音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",小满音乐台(100p)|1.72
+http://live.cooltv.top/tv/yueting.php?id=2490
+#EXTINF:-1  group-title="其它频道" tvg-name="3ABNPraiseHimMusicNetwork" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",3ABNPraiseHimMusicNetwork|7.66
+https://tv.a21network.ru/stream/37909/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="?MuchMusicHD" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",?MuchMusicHD|8.69
+https://5ff3d9babae13.streamlock.net/8028/8028/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="FaithlifeTVChristmasMusic" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",FaithlifeTVChristmasMusic|3.70
+https://cdn-unified-hls.streamspot.com/ingest1/0b5c0f18e9/playlist.m3u8?origin=1%26checkedby:iptvcat.com
+#EXTINF:-1  group-title="其它频道" tvg-name="MUSICA:MusicTopArgentina" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",MUSICA:MusicTopArgentina|3.16
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="福州音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",福州音乐广播|1.22
+http://live.zohi.tv/audio/s10001-FM893/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="开封音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",开封音乐广播|13.59
+http://live.dxhmt.cn:9081/gb/10200-4.m3u8
+#EXTINF:-1  radio=true tvg-name="老歌音乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",老歌音乐台|0.69
+http://live.xmcdn.com:80/live/2628/64.m3u8
+#EXTINF:-1  radio=true tvg-name="民谣音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",民谣音乐|1.22
+http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
+#EXTINF:-1  radio=true tvg-name="南京音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",南京音乐广播|4.81
+http://live.cooltv.top/tv/ytradio.php?id=425
+#EXTINF:-1  group-title="其它频道" tvg-name="南宁交通音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",南宁交通音乐广播|0.83
+http://hls.nntv.cn/nnradio/FM1074.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="绍兴私家车音乐广播" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",绍兴私家车音乐广播|0.81
+http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
