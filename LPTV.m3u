@@ -1,6 +1,8 @@
 #EXTM3U url-tvg="http://epg.51zmt.top:8000/e.xml,https://iptv-org.github.io/epg/guides/cn/tv.cctv.com.epg.xml,https://iptv-org.github.io/epg/guides/us/tvguide.com.epg.xml,https://iptv-org.github.io/epg/guides/uk/virginmedia.com.epg.xml,https://epg.112114.xyz/pp.xml,https://i.mjh.nz/au/Sydney/epg.xml.gz,https://i.mjh.nz/au/Perth/epg.xml.gz,https://i.mjh.nz/PlutoTV/us.xml.gz"
-#EXTINF:-1  group-title="本地频道" tvg-name="梁平融媒综合频道" tvg-logo="https://cmsimg.cbg.cn/2021/12/01/4be3d6b4-e06d-4f26-9af7-fc60caa86b6a.jpg",梁平融媒综合频道
+#EXTINF:-1  group-title="本地频道" tvg-name="梁平融媒综合频道" tvg-logo="https://imagecdn.cqliving.com/images/app_23/cms/202205/1dd53f5048144095b17b8eb6f99c06fe.jpg",梁平融媒综合频道
 https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
+#EXTINF:-1  radio=true group-title="本地频道" tvg-name="梁平融媒综合广播" tvg-logo="https://imagecdn.cqliving.com/images/app_23/cms/202205/1dd53f5048144095b17b8eb6f99c06fe.jpg",梁平融媒综合广播
+https://lhttp.qingting.fm/live/20211646/64k.mp3
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1-综合频道
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1-综合频道
