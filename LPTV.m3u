@@ -3,6 +3,8 @@
 https://qxlmlive9.cbg.cn/applive/lplive01/chunklist.m3u8
 #EXTINF:-1  radio=true group-title="本地频道" tvg-name="梁平融媒综合广播" tvg-logo="https://imagecdn.cqliving.com/images/app_23/cms/202205/1dd53f5048144095b17b8eb6f99c06fe.jpg",梁平融媒综合广播
 https://lhttp.qingting.fm/live/20211646/64k.mp3
+#EXTINF:-1  radio=true group-title="港台频道" tvg-name="凤凰HD" tvg-logo="https://baike.baidu.com/pic/%E5%87%A4%E5%87%B0%E5%8D%AB%E8%A7%86%E4%B8%AD%E6%96%87%E5%8F%B0/5470497/1/6d81800a19d8bc3eb1352fd5fac5b11ea8d3fd1fefd4?fr=lemma&fromModule=lemma_top-image&ct=single",凤凰HD
+http://61.221.81.93:8078/hls/21/80/phoenixch.m3u8
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png" group-title="央视",CCTV1-综合频道
 https://live.goodiptv.club/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1-综合频道
