@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1  group-title="4K频道" group-title="环绕声频道" group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16奥林匹克4K(2160p)|3.86|5.1(side)
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-16-4K_8000
+#EXTINF:-1  group-title="4K频道" group-title="环绕声频道" group-title="央视频道" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4K.png",CCTV4K超高清(2160p)|3.19|5.1(side)
+https://live02.gohkh9.eu.org/api/sxg.php?id=ys4Kcq_2000
 #EXTINF:-1  group-title="4K频道" group-title="央视频道" tvg-name="CCTV8K" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png",CCTV8K(2160p)|3.27
 http://159.75.85.63:8765/xxtv8k.php
 #EXTINF:-1  group-title="4K频道" group-title="央视频道" tvg-name="CCTV8K50" tvg-logo="https://epg.112114.xyz/logo/CCTV8K.png",CCTV8K50FPS(2160p)|2.05
@@ -31,6 +35,171 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212285
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 #EXTINF:-1  group-title="IPV6频道" group-title="央视频道" tvg-name="CCTV84K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV84K.png",CCTV84K(1080p)|1.73
 http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+#EXTM3U
+#EXTINF:-1  group-title="其它频道" tvg-name="TV1" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM1.png",RTMTV1(1080p)|10.97
+https://live01.gohkh9.eu.org/live.php?id=TV1
+#EXTINF:-1  group-title="其它频道" tvg-name="TV2" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main//channel-logos/RTM2.png",RTMTV2(1080p)|11.92
+https://live01.gohkh9.eu.org/live.php?id=TV2
+#EXTINF:-1  group-title="其它频道" tvg-name="Okey" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM_Okey.png",RTMOkey(1080p)|10.72
+https://live01.gohkh9.eu.org/live.php?id=Okey
+#EXTINF:-1  group-title="其它频道" tvg-name="Berita RTM" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/Berita_RTM.png",BeritaRTM(1080p)|10.61
+https://live01.gohkh9.eu.org/live.php?id=BERITA
+#EXTINF:-1  group-title="其它频道" tvg-name="TV6" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/RTM6.png",RTMTV6(1080p)|11.08
+https://live01.gohkh9.eu.org/live.php?id=TV6
+#EXTINF:-1  group-title="其它频道" tvg-name="FashionTVParisL'Original" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/FashionTV.png",FashionTVParisL'Original(1080p)|7.53
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="CookingPanda" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/cookingpanda.png",CookingPanda(720p)|13.83
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=47
+#EXTINF:-1  group-title="其它频道" tvg-name="TVRIWorld" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TVRIWorld.png",TVRIWorld(720p)|3.14
+http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="NHKWorldJapan" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/NHKWorldJapan.png",NHKWorldJapan(720p)|7.11
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="TRTWorld" tvg-logo="https://raw.githubusercontent.com/itszairi/FreeviewMY/main/channel-logos/intl/TRTWorld.png",TRTWorld(720p)|7.28
+https://tv-trtworld.live.trt.com.tr/master.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="BeautifulLifeTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",BeautifulLifeTV(720p)|3.81
+https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DaAi1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DaAi1(720p)|2.66
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1  group-title="其它频道" tvg-name="DaAi2" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",DaAi2(720p)|2.52
+https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1综合(1080p)|2.36
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-1H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2财经(1080p)|2.14
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-2H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3综艺(1080p)|3.17
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-3H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4中文国际(1080p)|2.50
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-4H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5体育(1080p)|3.06
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-5H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+体育赛事(1080p)|2.84
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-5plusH265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6电影(1080p)|2.77
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-6H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7国防军事(1080p)|2.44
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-7H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8电视剧(1080p)|2.34
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-8H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9纪录(1080p)|2.58
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-9H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png",CCTV10科教(1080p)|2.45
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-10H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV11戏曲(1080p)|2.70
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-11-H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV12社会与法(1080p)|3.97
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-12H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV13新闻(1080p)|3.64
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-xw_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14少儿(1080p)|3.59
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-14H265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15音乐(1080p)|3.44
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-15-yyH265_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16奥林匹克(1080p)|3.75
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-16_4000
+#EXTINF:-1  group-title="央视频道" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17农业农村(1080p)|3.11
+https://live02.gohkh9.eu.org/api/sxg.php?id=CCTV-17_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="4K超高清电影4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",4K超高清电影4K(1080p)|4.64
+https://live02.gohkh9.eu.org/api/sxg.php?id=emdy4k_8000
+#EXTINF:-1  group-title="4K频道" group-title="其它频道" tvg-name="欢笑剧场4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",欢笑剧场4K(2160p)|3.02
+https://live02.gohkh9.eu.org/api/sxg.php?id=hxjc-4k_8000
+#EXTINF:-1  group-title="其它频道" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",凤凰中文(1080p)|2.42
+https://live02.gohkh9.eu.org/api/sxg.php?id=test1_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",凤凰资讯(1080p)|2.78
+https://live02.gohkh9.eu.org/api/sxg.php?id=test2_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视(1080p)|2.53
+https://live02.gohkh9.eu.org/api/sxg.php?id=ahwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视(1080p)|3.47
+https://live02.gohkh9.eu.org/api/sxg.php?id=bjwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhongqing.png",重庆卫视(1080p)|2.17
+https://live02.gohkh9.eu.org/api/sxg.php?id=cqwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视(1080p)|2.91
+https://live02.gohkh9.eu.org/api/sxg.php?id=dfwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视(1080p)|3.11
+https://live02.gohkh9.eu.org/api/sxg.php?id=dnwsfjwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视(1080p)|2.41
+https://live02.gohkh9.eu.org/api/sxg.php?id=gdwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视(1080p)|2.19
+https://live02.gohkh9.eu.org/api/sxg.php?id=gzwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png",河南卫视(1080p)|2.28
+https://live02.gohkh9.eu.org/api/sxg.php?id=hnws35_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视(1080p)|2.33
+https://live02.gohkh9.eu.org/api/sxg.php?id=hljwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视(1080p)|3.52
+https://live02.gohkh9.eu.org/api/sxg.php?id=hbwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视(1080p)|2.88
+https://live02.gohkh9.eu.org/api/sxg.php?id=hnwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视(1080p)|2.70
+https://live02.gohkh9.eu.org/api/sxg.php?id=jlwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视(1080p)|2.89
+https://live02.gohkh9.eu.org/api/sxg.php?id=jswsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视(1080p)|2.83
+https://live02.gohkh9.eu.org/api/sxg.php?id=jxwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视(1080p)|3.95
+https://live02.gohkh9.eu.org/api/sxg.php?id=sdwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视(1080p)|4.16
+https://live02.gohkh9.eu.org/api/sxg.php?id=szwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视(1080p)|2.86
+https://live02.gohkh9.eu.org/api/sxg.php?id=scwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视(1080p)|3.28
+https://live02.gohkh9.eu.org/api/sxg.php?id=tjwsH265_4000
+#EXTINF:-1  group-title="卫视频道" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视(1080p)|3.23
+https://live02.gohkh9.eu.org/api/sxg.php?id=zjwsH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="CETV1" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CETV1(1080p)|3.11
+https://live02.gohkh9.eu.org/api/sxg.php?id=CETV-1H264_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CHC动作电影(1080p)|3.22
+https://live02.gohkh9.eu.org/api/sxg.php?id=wqCHCdzdyH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CHC高清电影(1080p)|2.55
+https://live02.gohkh9.eu.org/api/sxg.php?id=lnwsCHC-HDH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",CHC家庭影院(1080p)|2.56
+https://live02.gohkh9.eu.org/api/sxg.php?id=jbtygqCHCjtyyH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="动漫秀场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",动漫秀场(1080p)|2.28
+https://live02.gohkh9.eu.org/api/sxg.php?id=yybb-dmxc-H265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",都市剧场(1080p)|2.81
+https://live02.gohkh9.eu.org/api/sxg.php?id=yxfydsjcHDH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="法治天地" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",法治天地(1080p)|1.94
+https://live02.gohkh9.eu.org/api/sxg.php?id=fztx_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",金鹰纪实(1080p)|2.25
+https://live02.gohkh9.eu.org/api/sxg.php?id=jyjsHDH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",金鹰卡通(1080p)|3.05
+https://live02.gohkh9.eu.org/api/sxg.php?id=jykt_2000
+#EXTINF:-1  group-title="其它频道" tvg-name="劲爆体育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",劲爆体育(1080p)|1.44
+https://live02.gohkh9.eu.org/api/sxg.php?id=lqhxjcHDH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",快乐垂钓(1080p)|2.13
+https://live02.gohkh9.eu.org/api/sxg.php?id=fyzqklcdHDH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="乐游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",乐游(1080p)|1.86
+https://live02.gohkh9.eu.org/api/sxg.php?id=qjs-HDH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="梨园频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",梨园频道(1080p)|2.22
+https://live02.gohkh9.eu.org/api/sxg.php?id=ly_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",魅力足球(1080p)|1.50
+https://live02.gohkh9.eu.org/api/sxg.php?id=mlyy_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",生活时尚(1080p)|1.97
+https://live02.gohkh9.eu.org/api/sxg.php?id=shssH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="武术世界" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",武术世界(1080p)|1.77
+https://live02.gohkh9.eu.org/api/sxg.php?id=wssj_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="新视觉" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",新视觉(1080p)|1.70
+https://live02.gohkh9.eu.org/api/sxg.php?id=ycxsjH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="精品导视" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",精品导视(1080p)|2.20
+https://live02.gohkh9.eu.org/api/sxg.php?id=jpdsH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="沙湾融媒" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",沙湾融媒(1080p)|1.86
+https://live02.gohkh9.eu.org/api/sxg.php?id=swxwzh_2000
+#EXTINF:-1  group-title="其它频道" tvg-name="四川文化旅游" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",四川文化旅游(1080p)|1.47
+https://live02.gohkh9.eu.org/api/sxg.php?id=SCTV-2-H265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="四川经济" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",四川经济(1080p)|2.23
+https://live02.gohkh9.eu.org/api/sxg.php?id=SCTV-3-H265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="四川新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",四川新闻(1080p)|1.38
+https://live02.gohkh9.eu.org/api/sxg.php?id=SCTV-4H265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="四川影视文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",四川影视文艺(1080p)|1.30
+https://live02.gohkh9.eu.org/api/sxg.php?id=SCTV-5-scysH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="四川妇女儿童" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",四川妇女儿童(1080p)|3.81
+https://live02.gohkh9.eu.org/api/sxg.php?id=SCTV-7-_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="四川科教" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",四川科教(1080p)|1.83
+https://live02.gohkh9.eu.org/api/sxg.php?id=SCTV-ggSCTV-8_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="四川乡村" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",四川乡村(1080p)|2.58
+https://live02.gohkh9.eu.org/api/sxg.php?id=SCTV-kjSCTV-9-_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="四川峨嵋电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",四川峨嵋电影(1080p)|1.98
+https://live02.gohkh9.eu.org/api/sxg.php?id=emdygqH265_4000
+#EXTINF:-1  group-title="其它频道" tvg-name="成都新闻综合" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",成都新闻综合(1080p)|1.89
+https://live02.gohkh9.eu.org/api/sxg.php?id=CDTV-1_4000
 #EXTINF:-1  group-title="IPV6频道" group-title="其它频道" tvg-name="BesTV4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/141483E8-4B59-4E76-921C-A5FD64636892.jpeg",BesTV4K(720p)|2.13
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1  group-title="其它频道" tvg-name="gdxw" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png",gdxw(720p)|2.30
